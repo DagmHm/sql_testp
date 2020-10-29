@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
                 ArrayAdapter customerArrayAdapter = new ArrayAdapter<CustomerModel>(MainActivity.this,android.R.layout.simple_list_item_1,everyOne);
                 listView.setAdapter(customerArrayAdapter);
-
+                // updated
             }
         });
     }
