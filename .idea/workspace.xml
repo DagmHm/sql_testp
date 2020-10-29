@@ -9,7 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77bc49c9-ce09-4c18-b3d7-f7bd6d8a08ee" name="Default Changelist" comment="" />
+    <list default="true" id="77bc49c9-ce09-4c18-b3d7-f7bd6d8a08ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603978468331</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lela version">
+      <created>1603987450619</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603987450619</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,10 +217,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="527" y="215" width="292" height="398" key="AndroidCreateXmlResourceDialog/0.27.1366.741@0.27.1366.741" timestamp="1599194688981" />
-    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1603978468174">
+    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1603987450213">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1603978468174" />
+    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1603987450213" />
     <state x="0" y="134" width="1166" height="542" key="DiffContextDialog" timestamp="1603978502570">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -236,18 +245,18 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1320" height="131" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1603978581922" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1603981216534">
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1603987905659">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1603981216534" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1603987905659" />
     <state x="550" y="315" width="256" height="171" key="VCS.EditChangelistDialog" timestamp="1603978213707">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="550" y="315" width="256" height="171" key="VCS.EditChangelistDialog/0.27.1366.741@0.27.1366.741" timestamp="1603978213707" />
-    <state x="278" y="121" width="800" height="558" key="Vcs.Push.Dialog.v2" timestamp="1603977727974">
+    <state x="278" y="121" width="800" height="558" key="Vcs.Push.Dialog.v2" timestamp="1603987820534">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="121" width="800" height="558" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1603977727974" />
+    <state x="278" y="121" width="800" height="558" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1603987820534" />
     <state x="118" y="110" width="1166" height="542" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603978068861">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
