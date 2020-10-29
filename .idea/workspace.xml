@@ -158,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603987450619</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="demo lela version">
+      <created>1603987928986</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603987928986</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,7 +209,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 1" />
     <MESSAGE value="lela version" />
-    <option name="LAST_COMMIT_MESSAGE" value="lela version" />
+    <MESSAGE value="demo lela version" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo lela version" />
   </component>
   <component name="WindowStateProjectService">
     <state x="491" y="116" width="544" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1599197703614">
@@ -217,10 +225,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="527" y="215" width="292" height="398" key="AndroidCreateXmlResourceDialog/0.27.1366.741@0.27.1366.741" timestamp="1599194688981" />
-    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1603987450213">
+    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1603987928814">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1603987450213" />
+    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1603987928814" />
     <state x="0" y="134" width="1166" height="542" key="DiffContextDialog" timestamp="1603978502570">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -253,10 +261,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="550" y="315" width="256" height="171" key="VCS.EditChangelistDialog/0.27.1366.741@0.27.1366.741" timestamp="1603978213707" />
-    <state x="278" y="121" width="800" height="558" key="Vcs.Push.Dialog.v2" timestamp="1603987820534">
+    <state x="278" y="121" width="800" height="558" key="Vcs.Push.Dialog.v2" timestamp="1603988101937">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="121" width="800" height="558" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1603987820534" />
+    <state x="278" y="121" width="800" height="558" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1603988101937" />
     <state x="118" y="110" width="1166" height="542" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603978068861">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
